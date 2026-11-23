@@ -1,2 +1,2 @@
 # react
-Fork of react/react (React)
+The library for web and native user interfaces.
